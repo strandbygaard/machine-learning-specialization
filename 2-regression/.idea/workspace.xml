@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd0f9e66-e8f4-4fed-b496-6fb62dfc7ba9" name="Default" comment="" />
+    <list default="true" id="fd0f9e66-e8f4-4fed-b496-6fb62dfc7ba9" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.Rproj.user/FE643D5F/sdb/s-F7639851/C86E42F9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.Rproj.user/FE643D5F/sdb/s-F7639851/lock_file" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.Rhistory" afterPath="$PROJECT_DIR$/.Rhistory" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/R/kc_house_pricing_models.R" afterPath="$PROJECT_DIR$/R/kc_house_pricing_models.R" />
+    </list>
     <ignored path="2-regression.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -38,8 +43,8 @@
       <file leaf-file-name="kc_house_pricing_models.R" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/R/kc_house_pricing_models.R">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="397">
+              <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -63,6 +68,7 @@
         <option value="$PROJECT_DIR$/python/kc_house_pricing_models.py" />
         <option value="$PROJECT_DIR$/python/week2-multiple-regression-gradient-descent.py" />
         <option value="$PROJECT_DIR$/notebooks/week-2-multiple-regression-assignment-1-blank.ipynb" />
+        <option value="$PROJECT_DIR$/R/kc_house_pricing_models.R" />
       </list>
     </option>
   </component>
@@ -532,8 +538,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/R/kc_house_pricing_models.R">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="397">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding />
         </state>
       </provider>

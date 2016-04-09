@@ -1,5 +1,7 @@
 __MACOSX
 *.pyc
+.Rhistory
+.Rproj.user
 .ipynb_checkpoints
 .DS_Store
 
