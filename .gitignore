@@ -4,4 +4,4 @@ __MACOSX
 .Rproj.user
 .ipynb_checkpoints
 .DS_Store
-
+*.swp
