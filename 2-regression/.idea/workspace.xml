@@ -1,39 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd0f9e66-e8f4-4fed-b496-6fb62dfc7ba9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/martin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/week2-kc_house_pricing_models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/week2-multiple-regression-gradient-descent.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../1-foundation/analyzing-product-sentiment.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../1-foundation/deep-features-for-image-classification.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../1-foundation/deep-features-for-image-retrieval.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../1-foundation/document-retrieval.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../1-foundation/getting-started-with-ipython-notebook.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../1-foundation/getting-started-with-sframes.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../1-foundation/predicting-house-prices.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../1-foundation/song-recommender.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../1-foundation/week2-samples.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Overfitting_Demo_Ridge_Lasso.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Philadelphia_Crime_Rate_noNA.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PhillyCrime.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/kc_house_data.gl/dir_archive.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/kc_house_data.gl/m_fb913aaf43c120c4.0000" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/kc_house_data.gl/m_fb913aaf43c120c4.frame_idx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/kc_house_data.gl/m_fb913aaf43c120c4.sidx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/kc_house_data.gl/objects.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/numpy-tutorial.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week-1-simple-regression-assignment-blank.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week-2-multiple-regression-assignment-1-blank.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week-2-multiple-regression-assignment-2-blank.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week-3-polynomial-regression-assignment-blank.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week-4-ridge-regression-assignment-1-blank.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week-4-ridge-regression-assignment-2-blank.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week-5-lasso-assignment-1-blank.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week-5-lasso-assignment-2-blank.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week-6-local-regression-assignment-blank.ipynb" afterPath="" />
-    </list>
+    <list default="true" id="fd0f9e66-e8f4-4fed-b496-6fb62dfc7ba9" name="Default" comment="" />
     <ignored path="2-regression.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
