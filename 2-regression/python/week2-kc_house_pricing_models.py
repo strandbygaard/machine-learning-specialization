@@ -6,7 +6,8 @@ sales = graphlab.SFrame('data/kc_house_data.gl/');
 train_data,test_data = sales.random_split(.8,seed=0);
 
 example_features = ['sqft_living', 'bedrooms', 'bathrooms'];
-example_model = graphlab.linear_regression.create(train_data, target='price', features=example_features, validation_set=None);
+example_model = graphlab.linear_regression.create(train_data, target='price',
+                                                  features=example_features, validation_set=None);
 
 example_weight_summary = example_model.get("coefficients");
 print example_weight_summary;
